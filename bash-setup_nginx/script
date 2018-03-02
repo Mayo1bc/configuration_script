@@ -1,0 +1,2 @@
+# Installation script is applied to CentOS 7
+yum -y install nginx
